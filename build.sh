@@ -7,5 +7,7 @@ then
 else
   # use mono
 
-  mono packages/FAKE.4.19.0/tools/FAKE.exe $@ --fsiargs -d:MONO build.fsx
+  .paket/paket.bootstrapper.exe
+
+mono packages/FAKE.4.19.0/tools/FAKE.exe $@ --fsiargs -d:MONO build.fsx
 fi
