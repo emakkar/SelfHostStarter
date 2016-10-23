@@ -1,1 +1,0 @@
-c:\users\emakkar\documents\visual studio 2015\Projects\SelfHostStarter\SelfHostStarter\bin\Debug\SelfHostStarter.exe.config
