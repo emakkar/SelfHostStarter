@@ -1,6 +1,0 @@
-source E:\Library
-source https://www.nuget.org/api/v2/
-framework >= net452
-
-nuget FAKE 4.41.8
-nuget Paket 3.23.2
